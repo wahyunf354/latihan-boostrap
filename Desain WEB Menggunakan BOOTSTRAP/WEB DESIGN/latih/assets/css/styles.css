@@ -1,0 +1,56 @@
+/* ? JUMBOTRON */
+.jumbotron {
+  background-image: url("../img/background.jpg");
+  background-size: cover;
+  height: 350px;
+  color: aliceblue;
+  margin-top: -60px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.jumbotron h1 {
+  margin-bottom: 20px;
+  font-family: nexa;
+}
+
+.jumbotron p {
+  font-family: raleway;
+}
+
+.jumbotron button {
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+}
+
+/*? Container Top */
+#home .container .row h1 {
+  text-align: center;
+}
+
+#home .container {
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+  border-radius: 6px;
+  margin-top: -30px;
+  background-color: white;
+  padding: 30px;
+}
+
+/* ? Container Bawah */
+.news img {
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+/* TODO Versi Dekstop*/
+@media (min-width: 992px) {
+  .jumbotron {
+    height: 600px;
+    padding-top: 200px;
+  }
+  .bg-dark {
+    background: none !important;
+  }
+
+  #home .container {
+    margin-top: -100px;
+  }
+}
