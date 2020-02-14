@@ -36,10 +36,20 @@
 }
 
 /* ? Container Bawah */
+.news {
+  margin-bottom: 50px;
+}
 .news img {
   border-radius: 50%;
   margin-bottom: 10px;
 }
+
+/* ? bagian news bawah */
+.galery .container .row .col-md-6 .row img .img-top-right {
+  width: 300px !important;
+  height: 200px !important;
+}
+
 /* TODO Versi Dekstop*/
 @media (min-width: 992px) {
   .jumbotron {
