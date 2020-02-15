@@ -1,0 +1,82 @@
+{
+  "Product": [
+    {
+      "id": "1",
+      "Name": "LENOVO Ideapad S145 14\" HD/Intel Celeron 8th Gen 4205U/4GB/256GB SSD/Intel UHD Graphics 610/WIN 10 Home - Black\"",
+      "Merk": "Lenovo",
+      "Harga": "3.999.000",
+      "Deskripsi": "Didesain untuk kinerja jangka panjang, IdeaPad S145 menghadirkan, pemrosesan yang kuat, halus dalam desain yang stylish dan ringan. Dengan pemrosesan Intel Celeron 8th Gen Processor 4205U 2M Cache, 1.80 GHz, IdeaPad S145 dirancang untuk mengimbangi beragam pekerjaan dan keperluan Anda. Dilengkapi pula dengan ruang penyimpanan 256GB SSD, memastikan waktu respons yang lebih cepat. Dengan berat hanya 1.6 kg, IdeaPad S145 sangat ideal untuk saat Anda bepergian. Bezelnya yang sempit membuat desain lebih berkelas dan area tampilan lebih besar.   ",
+      "Rating": 5,
+      "Stok": 120,
+      "Detail": [
+        "Display: 14 inch HD TN (1366x768) AG 220nits, 45% NTSC",
+        "Processor: Intel Celeron 8th Gen Processor 4205U 2M Cache, 1.80 GHz",
+        "RAM: 4GB",
+        "Storage: 256 GB SSD",
+        "Graphics:  Intel UHD Graphics 610",
+        "ODD: No ODD",
+        "Audio: 2 x 1.5W Speakers with Dolby Audio™",
+        "Battery: Up to 6 hours battery life with Polymer 35Whr",
+        "Color: Black",
+        "OS: Windows 10 Home",
+        "Warranty: Garansi Resmi Lenovo Indonesia 2 Tahun",
+        "Dimensions: 327.1 x 241 x as thin as 19.93 mm",
+        "Weight: Starting at 1.6 kg",
+        "Hinge: 170 degrees",
+        "Connectivity: WiFi 1 x 1 ac",
+        "Bluetooth: Version 4.2",
+        "I/O (Input/Output) Ports: 2 x USB 3.1 (Gen 1); 1 x USB 2.0; HDMI 1.4b; SD Card Reader",
+        "Bag: Yes"
+      ],
+      "Lokasi": "Bekasi",
+      "Ongkos Kirim": "Standar",
+      "img": "lenovo.png",
+      "Toko": "JD.id",
+      "Kategori": "leptop"
+    },
+    {
+      "id": "2",
+      "Name": "CANON EOS 3000D Kit 18-55mm DC II",
+      "Merk": "Canon",
+      "Harga": "4.999.000",
+      "Deskripsi": "Dilengkapi dengan pegangan yang mantap pada kamera, jendela bidik optik yang dapat secara cepat menangkap momen, dan main dial untuk mengubah fungsi secara cepat, EOS 3000D menawarkan pengalaman menggunakan DSLR klasik bagi pemula. Sensor CMOS 18 megapiksel berukuran APS-C 25 kali lebih besar daripada sensor yang digunakan pada kamera smartphone. Hal ini membuat sensor mampu menangkap lebih banyak cahaya dan detail dalam sebuah foto, juga ikut menyumbangkan kemampuan untuk menghasilkan latar belakang buram nan indah. Informasi gambar secara cepat diproses oleh prosesor gambar DIGIC 4+, menghasilkan output beresolusi tinggi dan berkualitas tinggi. Kecil dan ringan, kira-kira seberat 436g (termasuk baterai dan kartu memori), inilah kamera yang ideal untuk dibawa saat bepergian.",
+      "Rating": 4.9,
+      "Stok": 200,
+      "Detail": null,
+      "Lokasi": "Malang",
+      "Ongkos Kirim": "Standar",
+      "img": "canon.jpg",
+      "Toko": "JD.id",
+      "Kategori": "camera"
+    },
+    {
+      "id": "3",
+      "Name": "SAMSUNG SSD 860 EVO 250GB 2.5 SATA",
+      "Merk": "Samsung",
+      "Harga": "724.000",
+      "Deskripsi": "SAMSUNG SSD 860 Evo 2.5 Inch 250GB adalah perangkat SSD canggih yang dapat Anda gunakan untuk keperluan penyimpanan tambahan pada perangkat PC dan notebook Anda. SSD ini dapat meningkatkan performa dan kinerja PC atau notebook Anda. SSD ini dapat menyajikan performa transfer file yang cepat dan konsisten bahkan ketika Anda berikan beban kerja yang berat dan multitasking sekalipun. Gunakan SSD canggih dari Samsung ini sebagai perangkat komputer pilihan Anda.",
+      "Rating": 4.5,
+      "Stok": 210,
+      "Detail": ["Kapasitas 250 GB", "Ukuran 2.5 Inci", "Interface SATA"],
+      "Lokasi": "Jakarta Selatan",
+      "Ongkos Kirim": "Standar",
+      "img": "SSD.jpg",
+      "Toko": "Iwan Group",
+      "Kategori": "ssd"
+    },
+    {
+      "id": "4",
+      "Name": "SAMSUNG LC24F390FHEXXD 23.5 inch FreeSync Full HD Curved Monitor (HDMI & VGA Port)",
+      "Merk": "Samsung",
+      "Harga": "1.724.000",
+      "Deskripsi": "Samsung Curved Monitor seri ini adalah monitor yang paling mendalam dan memberikan pengalaman menonton dengan layar melengkung lebih dalam. Kualitas gambar yang superior dan berwarna dengan rasio kontras 3000:1. Dengan AMD Freesync, Anda dapat memain game dengan halus.  ",
+      "Rating": 3.5,
+      "Stok": 110,
+      "Detail": ["Kapasitas 250 GB", "Ukuran 2.5 Inci", "Interface SATA"],
+      "Lokasi": "Jakarta Selatan",
+      "Ongkos Kirim": "Standar",
+      "img": "samsung-monitor.png",
+      "Toko": "Samsung Group"
+    }
+  ]
+}
